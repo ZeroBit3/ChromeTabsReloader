@@ -15,7 +15,7 @@
 
 要使用这些脚本代码，可以按照以下步骤操作：
 
-- `ChromeTabsReloader`:在Chrome或请在使用基于 Chromium 内核的浏览器中点击'Ctrl'+'Shift'+'J'以打开浏览器的开发者工具。粘贴此脚本代码，点击Enter。常见的基于 Chromium 内核的浏览器包括 Google Chrome、Microsoft Edge、Opera 等。
+- `ChromeTabsReloader`:在Chrome或请在使用基于 Chromium 内核的浏览器中点击'Ctrl'+'Shift'+'J'以打开浏览器的开发者工具（注意，要在新标签页按快捷键）。粘贴此脚本代码，点击Enter。常见的基于 Chromium 内核的浏览器包括 Google Chrome、Microsoft Edge、Opera 等。
 
 请务必仔细阅读每个脚本代码的注释，并根据的具体情况进行必要的修改。
 
