@@ -1,0 +1,20 @@
+{
+"name": "ChromeTabsReloader",
+"description": "ChromeTabsReloader",
+"version": "1.0",
+"manifest_version": 3,
+"action": {
+"default_title": "Reload Tabs",
+"default_popup": "popup.html",
+"icon": "icon.png"
+},
+"icons": {
+"16": "abc.png",
+"32": "abc.png",
+"48": "abc.png",
+"128": "abc.png"
+},
+"permissions": [
+"tabs"
+]
+}
